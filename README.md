@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-<!--
-**Akshatasarawgi/Akshatasarawgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work primarily with React, JavaScript, HTML, and CSS, and I also have experience building full-stack applications using Node.js, Express.js, SQL, and TanStack.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ React
+🟨 JavaScript
+🌐 HTML5 & CSS3
+🟢 Node.js & Express.js
+🗄️ SQL
+🔄 TanStack
+🛠️ REST APIs & Full-Stack Development
+
+I enjoy turning ideas into clean, scalable, and maintainable applications, while continuously learning new technologies and improving my development skills.
+
+💡 Currently: Building projects, exploring new technologies, and sharpening my frontend & full-stack development skills.
