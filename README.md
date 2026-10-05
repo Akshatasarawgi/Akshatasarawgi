@@ -27,13 +27,21 @@ What I Work On -
 
 Currently Exploring - 
 1.Advanced React patterns
+
 2.Full-stack application architecture
+
 3.Backend development with Node.js
+
 4.Database design & optimization
+
 5.Building scalable and production-ready applications
 
+
 Let's Connect - 
-[Check out my LinkedIn Profile](www.linkedin.com/in/akshata-s-b9869025b)
+Here's my [LinkedIn](www.linkedin.com/in/akshata-s-b9869025b).
+
 I'm always interested in building, learning, and collaborating on interesting projects.
+
 Feel free to explore my repositories and connect with me!
+
 
