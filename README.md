@@ -26,22 +26,20 @@ What I Work On -
 * Improving application performance, scalability, and maintainability
 
 Currently Exploring - 
-1.Advanced React patterns
 
-2.Full-stack application architecture
+* Advanced React patterns
 
-3.Backend development with Node.js
+* Full-stack application architecture
 
-4.Database design & optimization
+* Backend development with Node.js
 
-5.Building scalable and production-ready applications
+* Database design & optimization
 
+* Building scalable and production-ready applications
 
 Let's Connect - 
-Here's my [LinkedIn](www.linkedin.com/in/akshata-s-b9869025b).
-
-I'm always interested in building, learning, and collaborating on interesting projects.
-
-Feel free to explore my repositories and connect with me!
+* Here's my [LinkedIn](www.linkedin.com/in/akshata-s-b9869025b).
+* I'm always interested in building, learning, and collaborating on interesting projects.
+* Feel free to explore my repositories and connect with me!
 
 
