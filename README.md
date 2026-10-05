@@ -1,4 +1,4 @@
-# Hi! I'm Akshata, I'm a Frontend Developer working in React, Node.js, JavaScript environment. 
+### Hi! I'm Akshata, I'm a Frontend Developer working in React, Node.js, JavaScript environment. 
 
 🚀 Tech Stack
 Frontend
